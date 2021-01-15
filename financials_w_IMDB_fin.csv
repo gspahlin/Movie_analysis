@@ -1,0 +1,305 @@
+Year,title,Opening ,Weekend,Distributor,Budget,imdb_title_id,date_published,genre,duration,country,language,director,avg_vote,votes,reviews_from_users,reviews_from_critics
+1983.0,Superman III,56837690,Jul 1-4,Warner Bros.,39000000.0,tt0086393,6/17/1983,"Action, Adventure, Comedy",125,"UK, USA","English, Italian, Spanish",Richard Lester,5.0,63179,262.0,119.0
+1988.0,Cocktail,50052220,Jul 29-31,Walt Disney,20000000.0,tt0094889,1/18/1989,"Comedy, Drama, Romance",104,"USA, Canada","English, Spanish Sign Language",Roger Donaldson,5.9,77870,130.0,60.0
+1989.0,Batman,93294088,Jun 23-25,Warner Bros.,35000000.0,tt0096895,10/20/1989,"Action, Adventure",126,"USA, UK","English, French, Spanish",Tim Burton,7.5,332356,934.0,229.0
+1989.0,Harlem Nights,52044039,Nov 17-19,Paramount Pictures,30000000.0,tt0097481,11/17/1989,"Comedy, Crime, Drama",116,USA,English,Eddie Murphy,6.1,19829,75.0,26.0
+1990.0,Dick Tracy,67952401,Jun 15-17,Walt Disney,47000000.0,tt0099422,10/5/1990,"Action, Comedy, Crime",105,USA,English,Warren Beatty,6.1,56659,194.0,101.0
+1993.0,Jurassic Park,76672593,Jun 11-13,Universal Pictures,63000000.0,tt0107290,9/17/1993,"Action, Adventure, Sci-Fi",127,USA,"English, Spanish",Steven Spielberg,8.1,846021,1157.0,350.0
+1993.0,Poetic Justice,78336081,Jul 23-25,Columbia Pictures,14000000.0,tt0107840,7/23/1993,"Drama, Romance",109,USA,English,John Singleton,6.1,12437,35.0,16.0
+1993.0,Demolition Man,53114659,Oct 8-10,Warner Bros.,57000000.0,tt0106697,1/21/1994,"Action, Sci-Fi, Thriller",115,USA,English,Marco Brambilla,6.7,155477,278.0,114.0
+1994.0,Speed,61791562,Jun 10-12,20th Century Fox,30000000.0,tt0111257,9/30/1994,"Action, Adventure, Thriller",116,USA,English,Jan de Bont,7.2,322275,445.0,131.0
+1994.0,The Lion King,93704198,Jun 24-26,Walt Disney,45000000.0,tt0110357,11/25/1994,"Animation, Adventure, Drama",88,USA,"English, Swahili, Xhosa, Zulu","Roger Allers, Rob Minkoff",8.5,917248,1028.0,228.0
+1994.0,Forrest Gump,85646764,Jul 8-10,Paramount Pictures,55000000.0,tt0109830,10/6/1994,"Drama, Romance",142,USA,English,Robert Zemeckis,8.8,1755490,2416.0,169.0
+1994.0,True Lies,92809137,Jul 15-17,20th Century Fox,115000000.0,tt0111503,9/11/1994,"Action, Comedy, Thriller",141,USA,"English, French, Arabic, German",James Cameron,7.2,232830,405.0,97.0
+1995.0,Casper,101909625,May 26-29,Universal Pictures,50000000.0,tt0112642,12/7/1995,"Comedy, Family, Fantasy",100,USA,English,Brad Silberling,6.1,117023,122.0,40.0
+1995.0,Congo,69851526,Jun 9-11,Paramount Pictures,50000000.0,tt0112715,9/29/1995,"Action, Adventure, Mystery",109,USA,"English, American Sign Language",Frank Marshall,5.3,41486,175.0,78.0
+1995.0,Batman Forever,94611854,Jun 16-18,Warner Bros.,100000000.0,tt0112462,10/6/1995,"Action, Adventure",121,"USA, UK",English,Joel Schumacher,5.4,231670,616.0,186.0
+1995.0,Pocahontas,92308167,Jun 23-25,Walt Disney,55000000.0,tt0114148,11/24/1995,"Animation, Adventure, Drama",81,USA,"English, Algonquin","Mike Gabriel, Eric Goldberg",6.7,165983,264.0,106.0
+1995.0,Apollo 13,98694045,Jun30- Jul2,Universal Pictures,52000000.0,tt0112384,10/13/1995,"Adventure, Drama, History",140,USA,English,Ron Howard,7.6,262254,389.0,160.0
+1995.0,Waterworld,76992901,Jul 28-30,Universal Pictures,175000000.0,tt0114898,9/15/1995,"Action, Adventure, Sci-Fi",135,USA,English,Kevin Reynolds,6.2,177164,383.0,129.0
+1995.0,Mortal Kombat,70040087,Aug 18-20,New Line Cinema,18000000.0,tt0113855,11/10/1995,"Action, Adventure, Fantasy",101,USA,English,Paul W.S. Anderson,5.8,99852,336.0,92.0
+1995.0,GoldenEye,76161016,Nov 17-19,MGM,60000000.0,tt0113189,1/12/1996,"Action, Adventure, Thriller",130,"UK, USA","English, Russian, Spanish",Martin Campbell,7.2,234604,479.0,92.0
+1995.0,Jumanji,54343896,Dec 15-17,Sony Pictures,65000000.0,tt0113497,2/23/1996,"Adventure, Comedy, Family",104,USA,"English, French",Joe Johnston,7.0,299083,255.0,73.0
+1996.0,Twister,59513572,May 10-12,Warner Bros.,92000000.0,tt0117998,10/25/1996,"Action, Adventure, Thriller",113,USA,English,Jan de Bont,6.4,173857,442.0,119.0
+1996.0,Mission: Impossible,121612593,May 24-27,Paramount Pictures,80000000.0,tt0117060,9/13/1996,"Action, Adventure, Thriller",110,USA,"English, French, Czech",Brian De Palma,7.1,380316,457.0,192.0
+1996.0,The Rock,76813873,Jun 7-9,Walt Disney,75000000.0,tt0117500,8/30/1996,"Action, Adventure, Thriller",136,USA,English,Michael Bay,7.4,307112,470.0,129.0
+1996.0,Independence Day,119549834,Jul 5-7,20th Century Fox,75000000.0,tt0116629,9/27/1996,"Action, Adventure, Sci-Fi",145,USA,English,Roland Emmerich,7.0,520255,946.0,201.0
+1996.0,Jack,61317662,Aug 9-11,Walt Disney,45000000.0,tt0116669,10/31/1996,"Comedy, Drama, Fantasy",113,USA,"English, Spanish",Francis Ford Coppola,5.8,55279,82.0,38.0
+1996.0,Tin Cup,54394636,Aug 16-18,Warner Bros.,45000000.0,tt0117918,10/18/1996,"Comedy, Drama, Romance",135,USA,English,Ron Shelton,6.4,45385,85.0,57.0
+1996.0,Space Jam,80546983,Nov 15-17,Warner Bros.,80000000.0,tt0117705,2/21/1997,"Animation, Adventure, Comedy",88,USA,English,Joe Pytka,6.4,158796,186.0,67.0
+1996.0,Jerry Maguire,61780101,Dec 13-15,Sony Pictures,50000000.0,tt0116695,3/7/1997,"Comedy, Drama, Romance",139,USA,"English, American Sign Language",Cameron Crowe,7.3,238398,367.0,123.0
+1997.0,Anaconda,64584676,Apr 11-13,Sony Pictures,45000000.0,tt0118615,11/21/1997,"Action, Adventure, Horror",89,USA,English,Luis Llosa,4.8,93995,311.0,139.0
+1997.0,Con Air,62831256,Jun 6-8,Walt Disney,75000000.0,tt0118880,8/22/1997,"Action, Crime, Thriller",115,USA,"English, Spanish",Simon West,6.9,271350,402.0,133.0
+1997.0,Batman & Robin,95550443,Jun 20-22,Warner Bros.,125000000.0,tt0118688,8/29/1997,"Action, Sci-Fi",125,"USA, UK",English,Joel Schumacher,3.7,230579,1142.0,216.0
+1997.0,Air Force One,101320619,Jul 25-27,Sony Pictures,85000000.0,tt0118571,9/19/1997,"Action, Drama, Thriller",124,"USA, Germany","English, Russian",Wolfgang Petersen,6.5,176882,439.0,137.0
+1997.0,Cop Land,70473999,Aug 15-17,Miramax,15000000.0,tt0118887,10/25/1997,"Crime, Drama, Thriller",105,USA,English,James Mangold,6.9,84547,242.0,145.0
+1997.0,The Peacemaker,60725880,Sep 26-28,Dreamworks,50000000.0,tt0119874,10/31/1997,"Action, Thriller",124,USA,"English, Russian, Serbian, Bosnian, Croatian, Polish",Mimi Leder,5.9,53180,169.0,96.0
+1997.0,The Jackal,62856559,Nov 14-16,Universal Pictures,60000000.0,tt0119395,1/30/1998,"Action, Crime, Drama",124,"USA, UK, France, Germany, Japan","English, Russian",Michael Caton-Jones,6.4,104727,249.0,79.0
+1997.0,Scream 2,69091403,Dec 12-14,Dimension Films,24000000.0,tt0120082,9/10/1998,"Horror, Mystery",120,USA,English,Wes Craven,6.2,153698,523.0,210.0
+1997.0,Titanic,91234918,Dec 19-21,Paramount Pictures,200000000.0,tt0120338,1/16/1998,"Drama, Romance",194,"USA, Mexico, Australia, Canada","English, Swedish, Italian, French",James Cameron,7.8,1023181,2884.0,331.0
+1998.0,Lost in Space,67890972,Apr 3-5,New Line Cinema,80000000.0,tt0120738,1/15/1999,"Action, Adventure, Family",130,USA,English,Stephen Hopkins,5.2,68685,397.0,114.0
+1998.0,Deep Impact,67299336,May 8-10,Paramount Pictures,75000000.0,tt0120647,5/14/1998,"Action, Drama, Romance",120,USA,English,Mimi Leder,6.2,160722,554.0,141.0
+1998.0,Godzilla,67539654,May 22-24,Sony Pictures,130000000.0,tt0120685,9/4/1998,"Action, Sci-Fi, Thriller",139,"USA, Japan","English, French, Japanese, Russian, Spanish",Roland Emmerich,5.4,179769,876.0,111.0
+2014.0,Godzilla,167395914,May 16-18,Warner Bros.,160000000.0,tt0831387,5/15/2014,"Action, Adventure, Sci-Fi",123,"USA, Japan","English, Japanese",Gareth Edwards,6.4,369814,1643.0,642.0
+1998.0,The Truman Show,85102476,Jun 5-7,Paramount Pictures,60000000.0,tt0120382,9/10/1998,"Comedy, Drama, Sci-Fi",103,USA,English,Peter Weir,8.1,910502,1165.0,238.0
+1998.0,Blade,67766658,Aug 21-23,New Line Cinema,45000000.0,tt0120611,1/7/2000,"Action, Horror, Sci-Fi",120,USA,"English, Russian, Serbian",Stephen Norrington,7.1,240114,635.0,181.0
+1998.0,Pleasantville,59381827,Oct 23-25,New Line Cinema,60000000.0,tt0120789,4/16/1999,"Comedy, Drama, Fantasy",124,USA,English,Gary Ross,7.5,119604,727.0,157.0
+1998.0,Patch Adams,126493363,Dec 25-27,Universal Pictures,90000000.0,tt0129290,3/19/1999,"Biography, Comedy, Drama",115,USA,English,Tom Shadyac,6.8,102479,416.0,55.0
+1999.0,Varsity Blues,54023156,Jan 15-17,Paramount Pictures,16000000.0,tt0139699,7/9/1999,"Comedy, Drama, Romance",106,USA,English,Brian Robbins,6.5,41256,279.0,71.0
+1999.0,Life,66575853,Apr 16-18,Universal Pictures,80000000.0,tt0123964,6/16/2000,"Comedy, Crime, Drama",108,USA,English,Ted Demme,6.8,44729,151.0,63.0
+1999.0,Tarzan,123437360,Jun 18-20,Walt Disney,130000000.0,tt0120855,12/3/1999,"Animation, Adventure, Family",88,USA,English,"Chris Buck, Kevin Lima",7.3,198381,297.0,148.0
+1999.0,Wild Wild West,114717534,Jul 2-4,Warner Bros.,170000000.0,tt0120891,9/3/1999,"Action, Comedy, Sci-Fi",106,USA,English,Barry Sonnenfeld,4.9,150995,642.0,96.0
+1999.0,Eyes Wide Shut,98446172,Jul 16-18,Warner Bros.,65000000.0,tt0120663,10/1/1999,"Drama, Mystery, Thriller",159,"UK, USA",English,Stanley Kubrick,7.4,294691,1637.0,301.0
+1999.0,Fight Club,67432995,Oct 15-17,20th Century Fox,63000000.0,tt0137523,10/29/1999,Drama,139,"USA, Germany",English,David Fincher,8.8,1807440,3758.0,370.0
+1999.0,The Best Man,57181140,Oct 22-24,Universal Pictures,9000000.0,tt0168501,7/28/2000,"Comedy, Drama, Romance",120,USA,English,Malcolm D. Lee,6.8,9071,82.0,31.0
+2000.0,Next Friday,77115947,Jan 14-16,New Line Cinema,11000000.0,tt0195945,1/12/2000,Comedy,98,USA,"English, Spanish",Steve Carr,6.2,36064,88.0,17.0
+2000.0,Scream 3,67949978,Feb 4-6,Dimension Films,40000000.0,tt0134084,9/1/2000,"Horror, Mystery",116,USA,English,Wes Craven,5.6,121153,763.0,226.0
+2000.0,Mission to Mars,61089854,Mar 10-12,Walt Disney,100000000.0,tt0183523,5/5/2000,"Adventure, Sci-Fi, Thriller",114,"USA, Canada, France",English,Brian De Palma,5.7,69565,983.0,193.0
+2000.0,U-571,70397639,Apr 21-23,Universal Pictures,62000000.0,tt0141926,10/6/2000,"Action, War",116,"France, USA, Italy","English, German",Jonathan Mostow,6.6,75749,637.0,173.0
+2000.0,Mission: Impossible II,106840609,May 26-28,Paramount Pictures,125000000.0,tt0120755,7/7/2000,"Action, Adventure, Thriller",123,"USA, Germany",English,John Woo,6.1,308586,1501.0,233.0
+2000.0,Shaft,94155016,Jun 16-18,Paramount Pictures,46000000.0,tt0162650,7/19/2002,"Action, Crime, Thriller",99,"Germany, USA","English, German, Spanish",John Singleton,5.9,72469,310.0,146.0
+2000.0,X-Men,140259924,Jul 14-16,20th Century Fox,75000000.0,tt0120903,10/27/2000,"Action, Adventure, Sci-Fi",104,USA,English,Bryan Singer,7.4,562022,1448.0,311.0
+2000.0,Charlie's Angels,92320475,Nov 3-5,Sony Pictures,93000000.0,tt0160127,11/24/2000,"Action, Adventure, Comedy",98,"USA, Germany","English, German, Finnish, Japanese, Cantonese",McG,5.5,173640,662.0,196.0
+2000.0,Cast Away,92504427,Dec 22-24,20th Century Fox,90000000.0,tt0162222,1/12/2001,"Adventure, Drama, Romance",143,USA,"English, Russian",Robert Zemeckis,7.8,510788,1184.0,100.0
+2001.0,Save the Last Dance,79336430,Jan 12-14,Paramount Pictures,13000000.0,tt0206275,9/7/2001,"Drama, Music, Romance",112,USA,English,Thomas Carter,6.2,56471,326.0,91.0
+2001.0,Hannibal,102923335,Feb 9-11,MGM,87000000.0,tt0212985,2/9/2001,"Crime, Drama, Thriller",131,"USA, UK, Italy","English, Italian, Japanese",Ridley Scott,6.8,250009,1401.0,287.0
+2001.0,Spy Kids,78251050,Mar30-Apr1,Miramax,35000000.0,tt0227538,8/24/2001,"Action, Adventure, Comedy",88,USA,"English, Spanish",Robert Rodriguez,5.5,106395,221.0,123.0
+2001.0,Driven,50386961,Apr 27-29,Warner Bros.,94000000.0,tt0132245,4/27/2001,"Action, Drama, Sport",116,"USA, Canada, Australia","English, German, Spanish",Renny Harlin,4.6,38891,347.0,114.0
+2001.0,Shrek,94294422,May 18-20,Dreamworks,60000000.0,tt0126029,6/15/2001,"Animation, Adventure, Comedy",90,USA,English,"Andrew Adamson, Vicky Jenson",7.8,600116,1071.0,168.0
+2001.0,Pearl Harbor,137422090,May 25-27,Walt Disney,140000000.0,tt0213149,6/1/2001,"Action, Drama, History",183,USA,"English, Japanese, French",Michael Bay,6.2,306993,2026.0,199.0
+2001.0,Lara Croft: Tomb Raider,127001747,Jun 15-17,Paramount Pictures,115000000.0,tt0146316,12/14/2001,"Action, Adventure, Fantasy",100,"USA, UK, Japan, Germany",English,Simon West,5.8,195155,852.0,211.0
+2001.0,Jurassic Park III,130460690,Jul 20-22,Universal Pictures,93000000.0,tt0163025,8/31/2001,"Action, Adventure, Sci-Fi",92,USA,"English, Spanish",Joe Johnston,5.9,290954,1312.0,226.0
+2001.0,American Pie 2,143895822,Aug 10-12,Universal Pictures,30000000.0,tt0252866,10/31/2001,Comedy,108,USA,English,J.B. Rogers,6.4,236374,436.0,131.0
+2001.0,Hardball,48256060,Sep 14-16,Paramount Pictures,32000000.0,tt0180734,3/8/2002,"Drama, Sport",106,"Germany, USA","English, German",Brian Robbins,6.4,27785,135.0,88.0
+2001.0,Don't Say a Word,61239377,Sep 28-30,20th Century Fox,50000000.0,tt0260866,4/12/2002,"Drama, Mystery, Thriller",113,"USA, Australia, Switzerland, Canada","English, Italian, Chinese",Gary Fleder,6.3,47934,253.0,116.0
+2001.0,Training Day,81033528,Oct 5-7,Warner Bros.,45000000.0,tt0139654,11/16/2001,"Crime, Drama, Thriller",122,USA,"English, Russian, Spanish, Korean, Greek",Antoine Fuqua,7.7,381509,712.0,127.0
+2001.0,Vanilla Sky,86788851,Dec 14-16,Paramount Pictures,68000000.0,tt0259711,2/1/2002,"Fantasy, Mystery, Romance",136,"USA, Spain","English, Spanish",Cameron Crowe,6.9,244825,1299.0,153.0
+2002.0,John Q,97249142,Feb 15-17,New Line Cinema,36000000.0,tt0251160,5/10/2002,"Crime, Drama, Thriller",116,USA,"English, Spanish",Nick Cassavetes,7.1,121329,412.0,100.0
+2002.0,The Time Machine,78308340,Mar 8-10,Dreamworks,80000000.0,tt0268695,3/28/2002,"Action, Adventure, Sci-Fi",96,"USA, United Arab Emirates",English,Simon Wells,6.0,117239,661.0,132.0
+2002.0,Blade II,113639084,Mar 22-24,New Line Cinema,54000000.0,tt0187738,8/16/2002,"Action, Fantasy, Horror",117,"Germany, USA","English, Romanian, Czech",Guillermo del Toro,6.7,196524,575.0,223.0
+2002.0,Panic Room,108914420,Mar 29-31,Sony Pictures,48000000.0,tt0258000,4/19/2002,"Crime, Drama, Thriller",112,USA,English,David Fincher,6.8,253016,910.0,242.0
+2002.0,Spider-Man,148621966,May 3-5,Sony Pictures,139000000.0,tt0145487,6/7/2002,"Action, Adventure, Sci-Fi",121,USA,English,Sam Raimi,7.3,675212,2130.0,322.0
+2002.0,Scooby-Doo,150600635,Jun 14-16,Warner Bros.,84000000.0,tt0267913,6/28/2002,"Adventure, Comedy, Family",89,"USA, Australia",English,Raja Gosnell,5.1,96464,558.0,144.0
+2002.0,Minority Report,146017182,Jun 21-23,20th Century Fox,102000000.0,tt0181689,9/27/2002,"Action, Crime, Mystery",145,USA,"English, Swedish",Steven Spielberg,7.6,498830,1392.0,262.0
+2002.0,Mr. Deeds,125614968,Jun 28-30,Sony Pictures,50000000.0,tt0280590,2/7/2003,"Comedy, Romance",96,USA,English,Steven Brill,5.8,133994,315.0,120.0
+2002.0,Men in Black II,134225169,Jul 5-7,Sony Pictures,140000000.0,tt0120912,9/13/2002,"Action, Adventure, Comedy",88,USA,English,Barry Sonnenfeld,6.2,337088,650.0,201.0
+2002.0,Austin Powers in Goldmember,129688399,Jul 26-28,New Line Cinema,63000000.0,tt0295178,11/29/2002,"Action, Adventure, Comedy",94,USA,"English, Japanese, German, French",Jay Roach,6.2,192760,786.0,175.0
+2002.0,Signs,137681488,Aug 2-4,Walt Disney,72000000.0,tt0286106,10/17/2002,"Drama, Mystery, Sci-Fi",106,USA,"English, Portuguese",M. Night Shyamalan,6.7,331801,2417.0,227.0
+2002.0,xXx,129287848,Aug 9-11,Columbia Pictures,70000000.0,tt0295701,10/31/2002,"Action, Adventure, Thriller",124,USA,"English, German, Spanish, Russian, Czech",Rob Cohen,5.9,171591,751.0,193.0
+2002.0,Red Dragon,98121206,Oct 4-6,Universal Pictures,78000000.0,tt0289765,10/25/2002,"Crime, Drama, Thriller",124,"Germany, USA","English, French",Brett Ratner,7.2,246522,797.0,200.0
+2002.0,The Ring,67633772,Oct 18-20,Dreamworks,48000000.0,tt0298130,2/21/2003,"Horror, Mystery",115,USA,English,Gore Verbinski,7.1,315069,1671.0,272.0
+2002.0,8 Mile,125751491,Nov 8-10,Universal Pictures,41000000.0,tt0298203,3/14/2003,"Drama, Music",110,"USA, Germany",English,Curtis Hanson,7.1,244894,615.0,132.0
+2003.0,Daredevil,118587785,Feb 14-16,20th Century Fox,78000000.0,tt0287978,4/4/2003,"Action, Crime",103,"USA, China","English, Greek, Italian",Mark Steven Johnson,5.3,204269,1048.0,287.0
+2003.0,Head of State,82355910,Mar 28-30,Dreamworks,35200000.0,tt0325537,7/25/2003,Comedy,95,USA,English,Chris Rock,5.5,17935,86.0,48.0
+2003.0,2 Fast 2 Furious,154965259,Jun 6-8,Universal Pictures,76000000.0,tt0322259,6/20/2003,"Action, Crime, Thriller",107,"USA, Germany","English, Spanish",John Singleton,5.9,246757,418.0,113.0
+2003.0,Hulk,138565602,Jun 20-22,Universal Pictures,137000000.0,tt0286716,8/29/2003,"Action, Sci-Fi",138,USA,"English, Spanish",Ang Lee,5.6,248768,1485.0,287.0
+2003.0,Bad Boys II,134729265,Jul 18-20,Sony Pictures,130000000.0,tt0172156,10/17/2003,"Action, Comedy, Crime",147,USA,"English, Spanish, Russian",Michael Bay,6.6,227621,565.0,114.0
+2003.0,Freddy vs. Jason,127283862,Aug 15-17,New Line Cinema,30000000.0,tt0329101,10/10/2003,"Action, Horror",97,"Canada, USA",English,Ronny Yu,5.7,108669,909.0,296.0
+2003.0,Underworld,87127122,Sep 19-21,Columbia Pictures,22000000.0,tt0320691,1/30/2004,"Action, Fantasy, Thriller",121,"USA, UK, Germany, Hungary",English,Len Wiseman,7.0,249383,836.0,225.0
+2003.0,School of Rock,76465128,Oct 3-5,Paramount Pictures,35000000.0,tt0332379,4/2/2004,"Comedy, Music",109,"USA, Germany",English,Richard Linklater,7.1,262543,520.0,207.0
+2004.0,The Butterfly Effect,77928970,Jan 23-25,New Line Cinema,13000000.0,tt0289879,2/27/2004,"Drama, Sci-Fi, Thriller",113,"USA, Canada",English,"Eric Bress, J. Mackye Gruber",7.6,444298,1188.0,179.0
+2004.0,Hellboy,107623883,Apr 2-4,Columbia Pictures,66000000.0,tt0167190,10/8/2004,"Action, Fantasy, Horror",122,USA,"English, Russian",Guillermo del Toro,6.8,302680,652.0,105.0
+2004.0,Mean Girls,83177726,Apr30-May2,Paramount Pictures,17000000.0,tt0377092,8/27/2004,Comedy,97,"USA, Canada","English, German, Vietnamese, Swahili",Mark Waters,7.0,324817,652.0,126.0
+2004.0,Van Helsing,98399021,May 7-9,Universal Pictures,160000000.0,tt0338526,5/7/2004,"Action, Adventure, Fantasy",131,"USA, Czech Republic, Romania","English, Latin",Stephen Sommers,6.1,240561,1377.0,127.0
+2004.0,Troy,100629677,May 14-16,Warner Bros.,175000000.0,tt0332452,5/21/2004,"Drama, History",163,"USA, Malta, UK",English,Wolfgang Petersen,7.2,479687,1804.0,211.0
+2004.0,Shrek 2,161847766,May 21-23,Dreamworks,150000000.0,tt0298148,12/17/2004,"Animation, Adventure, Comedy",93,USA,English,"Andrew Adamson, Kelly Asbury",7.2,410089,546.0,200.0
+2004.0,Spider-Man 2,154099164,Jun 2-4,Sony Pictures,200000000.0,tt0316654,9/16/2004,"Action, Adventure, Sci-Fi",127,USA,"English, Russian, Chinese",Sam Raimi,7.3,532565,1458.0,321.0
+2004.0,The Bourne Supremacy,135184908,Jul 23-25,Universal Pictures,75000000.0,tt0372183,9/24/2004,"Action, Mystery, Thriller",108,"USA, Germany","English, Russian, German, Italian",Paul Greengrass,7.7,427227,849.0,248.0
+2004.0,The Village,136648459,Jul30-Aug1,Walt Disney,60000000.0,tt0368447,10/29/2004,"Drama, Mystery, Thriller",108,USA,English,M. Night Shyamalan,6.5,238570,2064.0,285.0
+2004.0,Collateral,93818029,Aug 6-8,Dreamworks,65000000.0,tt0369339,10/15/2004,"Crime, Drama, Thriller",120,USA,"English, Spanish, French, Korean",Michael Mann,7.5,352788,898.0,224.0
+2004.0,Alien vs. Predator,119841838,Aug 13-15,20th Century Fox,60000000.0,tt0370263,11/19/2004,"Action, Adventure, Horror",101,"USA, UK, Czech Republic, Canada, Germany","English, Italian",Paul W.S. Anderson,5.6,181945,1351.0,147.0
+2004.0,Resident Evil: Apocalypse,59095246,Aug 10-12,Screen Gems,45000000.0,tt0318627,11/5/2004,"Action, Horror, Sci-Fi",94,"Germany, France, UK, Canada, USA",English,Alexander Witt,6.2,183375,698.0,205.0
+2004.0,Sky Captain and the World of Tomorrow,60061974,Sep 17-19,Paramount Pictures,70000000.0,tt0346156,11/12/2004,"Action, Adventure, Mystery",106,"USA, UK, Italy","English, Tibetan, German",Kerry Conran,6.0,80904,634.0,203.0
+2004.0,The Forgotten,55689771,Sep 24-26,Sony Pictures,42000000.0,tt0356618,2/18/2005,"Drama, Mystery, Sci-Fi",91,USA,English,Joseph Ruben,5.8,63333,457.0,175.0
+2004.0,Shark Tale,98687284,Oct 1-3,Dreamworks,75000000.0,tt0307453,2/25/2005,"Animation, Adventure, Comedy",90,USA,English,"Bibo Bergeron, Vicky Jenson",6.0,163930,321.0,141.0
+2004.0,The Grudge,95443105,Oct 22-24,Sony Pictures,10000000.0,tt0391198,1/5/2005,"Horror, Mystery, Thriller",91,"USA, Japan","English, Japanese",Takashi Shimizu,5.9,137206,920.0,218.0
+2004.0,Ocean's Twelve,98593405,Dec 10-12,Warner Bros.,110000000.0,tt0349903,12/17/2004,"Crime, Thriller",125,USA,"English, Dutch, French, Italian, Mandarin",Steven Soderbergh,6.5,351814,678.0,207.0
+2005.0,Coach Carter,112075179,Jan 14-16,Paramount Pictures,30000000.0,tt0393162,6/3/2005,"Biography, Drama, Sport",136,"USA, Germany",English,Thomas Carter,7.3,123840,240.0,120.0
+2005.0,Robots,100272952,Mar 11-13,20th Century Fox,75000000.0,tt0358082,3/24/2005,"Animation, Adventure, Comedy",91,USA,"English, Italian","Chris Wedge, Carlos Saldanha",6.3,130168,291.0,153.0
+2005.0,Sin City,92823733,Apr 1-3,Dimension Films,40000000.0,tt0401792,6/1/2005,"Crime, Thriller",124,USA,English,"Frank Miller, Quentin Tarantino",8.0,733158,1780.0,386.0
+2005.0,Sahara,75815725,Apr 8-10,Paramount Pictures,130000000.0,tt0318649,4/22/2005,"Action, Adventure, Comedy",124,"UK, Spain, Germany, USA, France","English, French, Arabic",Breck Eisner,6.0,90793,497.0,157.0
+2005.0,The Interpreter,78875513,Apr 22-24,Universal Pictures,80000000.0,tt0373926,10/28/2005,"Crime, Mystery, Thriller",128,"UK, France, Germany, USA","English, Aboriginal, French, Portuguese",Sydney Pollack,6.4,96245,421.0,230.0
+2005.0,Mr. & Mrs. Smith,134230550,Jun 10-12,20th Century Fox,110000000.0,tt0356910,12/2/2005,"Action, Comedy, Crime",120,USA,"English, Spanish",Doug Liman,6.5,442126,831.0,240.0
+2005.0,Batman Begins,127046966,Jun 17-19,Warner Bros.,150000000.0,tt0372784,6/17/2005,"Action, Adventure",140,"USA, UK","English, Mandarin",Christopher Nolan,8.2,1278075,2911.0,324.0
+2005.0,The Exorcism of Emily Rose,70635980,Sep 9-11,Screen Gems,19000000.0,tt0404032,10/7/2005,"Drama, Horror, Thriller",119,USA,"English, Syriac, German, Greek, Hebrew, Latin, Aramaic",Scott Derrickson,6.7,117192,557.0,246.0
+2005.0,Doom,65691999,Oct 21-23,Universal Pictures,60000000.0,tt0419706,3/17/2006,"Action, Horror, Sci-Fi",105,"UK, Czech Republic, Germany, USA","English, Japanese",Andrzej Bartkowiak,5.2,105058,880.0,244.0
+2005.0,King Kong,119305835,Dec 16-18,Universal Pictures,207000000.0,tt0360717,12/16/2005,"Action, Adventure, Drama",187,"New Zealand, USA, Germany",English,Peter Jackson,7.2,384415,2697.0,224.0
+2006.0,Underworld: Evolution,87776641,Jan 20-22,Screen Gems,50000000.0,tt0401855,2/10/2006,"Action, Fantasy, Thriller",106,"USA, Canada","English, French, Hungarian",Len Wiseman,6.7,187347,521.0,180.0
+2006.0,Inside Man,95002772,Mar 24-26,Universal Pictures,45000000.0,tt0454848,4/7/2006,"Crime, Drama, Mystery",129,USA,"English, Albanian, Spanish",Spike Lee,7.6,331649,722.0,233.0
+2006.0,Scary Movie 4,107052016,Apr 14-16,Dimension Films,45000000.0,tt0362120,4/21/2006,"Comedy, Horror",83,USA,"English, Japanese",David Zucker,5.1,112056,411.0,153.0
+2006.0,Silent Hill,95425388,Apr 21-23,Sony Pictures,50000000.0,tt0384537,7/7/2006,Horror,125,"Canada, France, Japan, Australia",English,Christophe Gans,6.5,210865,1797.0,278.0
+2006.0,Mission: Impossible III,94591176,May 5-7,Paramount Pictures,150000000.0,tt0317919,5/5/2006,"Action, Adventure, Thriller",126,"USA, Germany, China, Italy","English, Italian, Mandarin, Cantonese, German, Czech",J.J. Abrams,6.9,324310,913.0,327.0
+2006.0,Superman Returns,139186743,Jun30-Jul2,Warner Bros.,270000000.0,tt0348150,9/1/2006,"Action, Sci-Fi",154,USA,"English, German, French",Bryan Singer,6.0,268239,2423.0,419.0
+2006.0,Miami Vice,108847779,Jul 28-30,Universal Pictures,135000000.0,tt0430357,10/6/2006,"Action, Crime, Thriller",132,USA,"English, Spanish",Michael Mann,6.0,108511,976.0,244.0
+2006.0,Snakes on a Plane,85216005,Aug 18-20,New Line Cinema,33000000.0,tt0417148,9/29/2006,"Action, Adventure, Crime",105,"USA, Germany",English,David R. Ellis,5.4,130298,1061.0,290.0
+2006.0,The Grudge 2,96953720,Oct 13-15,Sony Pictures,20000000.0,tt0433386,11/10/2006,"Horror, Thriller",102,"USA, Japan","English, Japanese",Takashi Shimizu,5.1,46658,288.0,138.0
+2006.0,The Prestige,81965050,Oct 20-22,Walt Disney,40000000.0,tt0482571,12/22/2006,"Drama, Mystery, Sci-Fi",130,"UK, USA",English,Christopher Nolan,8.5,1155723,1422.0,363.0
+2006.0,Happy Feet,129362388,Nov 17-19,Warner Bros.,100000000.0,tt0366548,12/1/2006,"Animation, Adventure, Comedy",108,"USA, Australia",English,"George Miller, Warren Coleman",6.4,166806,586.0,192.0
+2006.0,Apocalypto,82696524,Dec 8-10,Walt Disney,40000000.0,tt0472043,1/5/2007,"Action, Adventure, Drama",139,"USA, Mexico, UK",Maya,Mel Gibson,7.8,286225,1164.0,295.0
+2007.0,Epic Movie,82251314,Jan 26-28,20th Century Fox,20000000.0,tt0799949,4/27/2007,"Adventure, Comedy",86,USA,English,"Jason Friedberg, Aaron Seltzer",2.4,100874,688.0,114.0
+2007.0,The Messengers,66162832,Feb 2-4,Screen Gems,16000000.0,tt0425430,6/29/2007,"Horror, Thriller",90,USA,English,"Danny Pang, Oxide Chun Pang",5.4,37763,209.0,186.0
+2007.0,Norbit,87192120,Feb 9-11,Dreamworks,60000000.0,tt0477051,3/23/2007,"Comedy, Romance",103,USA,English,Brian Robbins,4.1,67266,308.0,128.0
+2007.0,Ghost Rider,138054963,Feb 16-18,Sony Pictures,110000000.0,tt0259324,3/16/2007,"Action, Fantasy, Thriller",110,"USA, Australia",English,Mark Steven Johnson,5.2,219971,725.0,290.0
+2007.0,TMNT,116373315,Mar 23-25,Warner Bros.,34000000.0,tt0453556,6/22/2007,"Animation, Action, Adventure",87,"Hong Kong, USA",English,Kevin Munroe,6.2,60617,224.0,195.0
+2007.0,Disturbia,91708525,Apr 13-15,Dreamworks,20000000.0,tt0486822,8/17/2007,"Crime, Drama, Mystery",105,USA,"English, Spanish",D.J. Caruso,6.8,217146,531.0,247.0
+2007.0,Spider-Man 3,178072412,May 4-6,Sony Pictures,258000000.0,tt0413300,5/1/2007,"Action, Adventure, Sci-Fi",139,USA,"English, French",Sam Raimi,6.2,489497,2068.0,421.0
+2007.0,Ocean's Thirteen,129422051,Jun 8-10,Warner Bros.,85000000.0,tt0496806,6/8/2007,"Action, Crime, Thriller",122,USA,"English, Mandarin, Spanish, French",Steven Soderbergh,6.9,315076,322.0,252.0
+2007.0,Ratatouille,141710943,Jun29-Jul1,Walt Disney,150000000.0,tt0382932,10/17/2007,"Animation, Adventure, Comedy",111,USA,"English, French","Brad Bird, Jan Pinkava",8.0,624762,747.0,330.0
+2007.0,Transformers,160065416,Jul 6-8,Dreamworks,150000000.0,tt0418279,6/28/2007,"Action, Adventure, Sci-Fi",144,USA,"English, Spanish",Michael Bay,7.0,589274,1876.0,396.0
+2018.0,Halloween,155990869,Oct 19-21,Universal Pictures,10000000.0,tt1502407,10/25/2018,"Crime, Horror, Thriller",106,"USA, UK",English,David Gordon Green,6.6,112488,1760.0,486.0
+2007.0,Resident Evil: Extinction,78128042,Sep 21-23,Screen Gems,45000000.0,tt0432021,10/12/2007,"Action, Horror, Sci-Fi",94,"France, Australia, Germany, UK, USA, Mexico, Canada",English,Russell Mulcahy,6.3,180851,385.0,229.0
+2007.0,Why Did I Get Married?,80316757,Oct 12-14,Lionsgate,15000000.0,tt0906108,10/12/2007,"Comedy, Drama",113,USA,English,Tyler Perry,5.9,11974,104.0,42.0
+2007.0,Saw IV,81239698,Oct 26-28,Lionsgate,10000000.0,tt0890870,4/30/2008,"Horror, Mystery, Thriller",93,"Canada, USA",English,Darren Lynn Bousman,5.9,137921,344.0,206.0
+2007.0,American Gangster,118917527,Nov 2-4,Universal Pictures,100000000.0,tt0765429,1/18/2008,"Biography, Crime, Drama",157,"USA, UK","English, Thai, Spanish",Ridley Scott,7.8,383688,500.0,319.0
+2008.0,Cloverfield,126624750,Jan 11-13,Paramount Pictures,25000000.0,tt1060277,2/1/2008,"Action, Adventure, Horror",85,USA,"English, Russian",Matt Reeves,7.0,367611,2343.0,469.0
+2008.0,Jumper,111505912,Feb 15-17,20th Century Fox,85000000.0,tt0489099,2/29/2008,"Action, Adventure, Sci-Fi",88,"USA, Canada","English, Italian, Japanese, Mandarin",Doug Liman,6.1,282968,527.0,242.0
+2008.0,Semi-Pro,73841003,Feb29-Mar2,New Line Cinema,55000000.0,tt0839980,2/29/2008,"Comedy, Sport",91,USA,English,Kent Alterman,5.8,77449,131.0,165.0
+2008.0,21,85512670,Mar 28-30,Sony Pictures,35000000.0,tt0478087,4/18/2008,"Crime, Drama, History",123,USA,English,Robert Luketic,6.8,225698,315.0,152.0
+2008.0,Baby Mama,76023855,Apr 25-27,Universal Pictures,30000000.0,tt0871426,7/24/2009,"Comedy, Romance",99,USA,English,Michael McCullers,6.0,41704,110.0,147.0
+2008.0,Iron Man,148431129,May 2-4,Paramount Pictures,140000000.0,tt0371746,5/1/2008,"Action, Adventure, Sci-Fi",126,"USA, Canada","English, Persian, Urdu, Arabic, Kurdish, Hindi, Hungarian",Jon Favreau,7.9,920706,1329.0,540.0
+2008.0,Kung Fu Panda,169909290,Jun 6-8,Dreamworks,130000000.0,tt0441773,8/29/2008,"Animation, Action, Adventure",92,USA,English,"Mark Osborne, John Stevenson",7.5,409544,429.0,275.0
+2008.0,WALL·E,176907464,Jun 27-29,Walt Disney,180000000.0,tt0910970,10/17/2008,"Animation, Adventure, Family",98,USA,English,Andrew Stanton,8.4,974734,1287.0,269.0
+2008.0,Hancock,149928900,Jun 4-6,Sony Pictures,150000000.0,tt0448157,9/12/2008,"Action, Fantasy",92,USA,"English, Japanese, Vietnamese",Peter Berg,6.4,437405,657.0,302.0
+2008.0,Tropic Thunder,106423430,Aug 15-17,Dreamworks,92000000.0,tt0942385,10/24/2008,"Action, Comedy, War",107,"USA, UK, Germany","English, Mandarin",Ben Stiller,7.0,371908,634.0,326.0
+2008.0,Eagle Eye,82148111,Sep 26-28,Dreamworks,80000000.0,tt1059786,2/20/2009,"Action, Mystery, Thriller",118,"USA, Germany",English,D.J. Caruso,6.6,173902,359.0,214.0
+2008.0,Max Payne,79992286,Oct 17-19,20th Century Fox,35000000.0,tt0467197,11/28/2008,"Action, Crime, Drama",100,"USA, Canada","English, Russian, Spanish",John Moore,5.4,120941,430.0,232.0
+2008.0,Quantum of Solace,134787672,Nov 14-16,Sony Pictures,200000000.0,tt0830515,11/7/2008,"Action, Adventure, Thriller",106,"UK, USA","English, Spanish, Italian, French, Swiss German, German",Marc Forster,6.6,397640,1319.0,338.0
+2008.0,Twilight,154817872,Nov 21-23,Summit Entertainment,37000000.0,tt1099212,11/21/2008,"Drama, Fantasy, Romance",122,USA,English,Catherine Hardwicke,5.2,417077,1660.0,359.0
+2009.0,Madea Goes to Jail,112141559,Feb 20-22,Lionsgate,17500000.0,tt1142800,2/20/2009,"Comedy, Crime, Drama",103,USA,English,Tyler Perry,4.5,11236,52.0,42.0
+2009.0,Watchmen,97720570,Mar 6-8,Warner Bros.,130000000.0,tt0409459,3/6/2009,"Action, Drama, Mystery",162,USA,English,Zack Snyder,7.6,491133,1405.0,485.0
+2009.0,Hannah Montana: The Movie,122113373,Apr 10-12,Walt Disney,30000000.0,tt1114677,5/1/2009,"Comedy, Drama, Family",102,USA,English,Peter Chelsom,4.5,38996,159.0,136.0
+2009.0,Star Trek,138843581,May 8-10,Paramount Pictures,150000000.0,tt0796366,5/8/2009,"Action, Adventure, Sci-Fi",127,"USA, Germany",English,J.J. Abrams,7.9,571847,1663.0,544.0
+2009.0,Up,159873985,May 29-31,Walt Disney,175000000.0,tt1049413,10/15/2009,"Animation, Adventure, Comedy",96,USA,English,"Pete Docter, Bob Peterson",8.2,911402,905.0,420.0
+2009.0,Brüno,132244941,Jul 10-12,Universal Pictures,42000000.0,tt0889583,10/23/2009,Comedy,81,"USA, UK","English, German",Larry Charles,5.8,139029,419.0,163.0
+2009.0,Funny People,107143812,Jul31-Aug2,Universal Pictures,75000000.0,tt1201167,10/16/2009,"Comedy, Drama",146,USA,English,Judd Apatow,6.3,113065,335.0,237.0
+2009.0,District 9,119101428,Aug 14-16,Sony Pictures,30000000.0,tt1136608,9/25/2009,"Action, Sci-Fi, Thriller",112,"South Africa, USA, New Zealand, Canada","English, Nyanja, Afrikaans, Zulu, Xhosa, Southern Sotho",Neill Blomkamp,7.9,630278,1383.0,486.0
+2009.0,I Can Do Bad All by Myself,71451514,Sep 11-13,Lionsgate,13000000.0,tt1385912,9/11/2009,"Comedy, Drama",113,USA,English,Tyler Perry,4.5,9448,63.0,34.0
+2009.0,A Christmas Carol,102932989,Nov 6-8,Walt Disney,200000000.0,tt1067106,12/3/2009,"Animation, Drama, Family",96,USA,English,Robert Zemeckis,6.8,98606,278.0,254.0
+2009.0,2012,124130245,Nov 13-15,Sony Pictures,200000000.0,tt1190080,11/13/2009,"Action, Adventure, Sci-Fi",158,USA,"English, French, Tibetan, Mandarin, Russian, Hindi, Portuguese, Latin, Italian, Spanish",Roland Emmerich,5.8,347291,1182.0,230.0
+2009.0,The Twilight Saga: New Moon,246948248,Nov 20-22,Summit Entertainment,50000000.0,tt1259571,11/18/2009,"Adventure, Drama, Fantasy",130,USA,"English, Italian",Chris Weitz,4.7,260695,960.0,306.0
+2009.0,Avatar,126343342,Dec 18-20,20th Century Fox,237000000.0,tt0499549,1/15/2010,"Action, Adventure, Fantasy",162,USA,"English, Spanish",James Cameron,7.8,1101160,3442.0,733.0
+2010.0,Dear John,94786281,Feb 5-7,Sony Pictures,25000000.0,tt0989757,5/7/2010,"Drama, Romance, War",108,USA,English,Lasse Hallström,6.3,136257,230.0,166.0
+2010.0,Shutter Island,118472680,Feb 19-21,Paramount Pictures,80000000.0,tt1130884,3/5/2010,"Mystery, Thriller",138,USA,"English, German",Martin Scorsese,8.2,1096024,1286.0,523.0
+2010.0,Alice in Wonderland,182536400,Mar 5-7,Walt Disney,200000000.0,tt1014759,3/3/2010,"Adventure, Family, Fantasy",108,"USA, UK",English,Tim Burton,6.4,376706,790.0,471.0
+2010.0,Kick-Ass,108077823,Apr 16-18,Lionsgate,30000000.0,tt1250777,4/1/2011,"Action, Comedy, Crime",117,"UK, USA, China",English,Matthew Vaughn,7.6,517708,843.0,467.0
+2010.0,Iron Man 2,167701822,May 7-9,Paramount Pictures,200000000.0,tt1228705,4/30/2010,"Action, Adventure, Sci-Fi",124,USA,"English, French, Russian",Jon Favreau,7.0,706284,885.0,495.0
+2010.0,The Twilight Saga: Eclipse,179066707,Jul 2-4,Summit Entertainment,68000000.0,tt1325004,6/30/2010,"Adventure, Drama, Fantasy",124,USA,English,David Slade,5.0,223170,530.0,292.0
+2010.0,Inception,169206774,Jul 16-18,Warner Bros.,160000000.0,tt1375666,9/24/2010,"Action, Adventure, Sci-Fi",148,"USA, UK","English, Japanese, French",Christopher Nolan,8.8,2002816,3927.0,473.0
+2010.0,Takers,87206831,Aug 27-29,Screen Gems,32000000.0,tt1135084,12/3/2010,"Action, Crime, Thriller",107,USA,"English, Russian",John Luessenhop,6.2,57022,159.0,94.0
+2010.0,The American,74512580,Sep 3-5,Focus Features,20000000.0,tt1440728,9/10/2010,"Crime, Drama, Thriller",105,"USA, UK","English, Italian",Anton Corbijn,6.3,90601,527.0,345.0
+2010.0,Resident Evil: Afterlife,61707602,Sep 10-12,Screen Gems,60000000.0,tt1220634,9/10/2010,"Action, Adventure, Horror",96,"Germany, France, Canada, UK, China, USA","English, Japanese, Spanish",Paul W.S. Anderson,5.8,159831,433.0,125.0
+2010.0,The Town,84334484,Sep 17-19,Warner Bros.,37000000.0,tt0840361,10/8/2010,"Crime, Drama, Thriller",125,USA,English,Ben Affleck,7.5,344976,510.0,394.0
+2010.0,The Social Network,82543307,Oct 1-3,Sony Pictures,40000000.0,tt1285016,11/11/2010,"Biography, Drama",120,USA,"English, French",David Fincher,7.7,608745,879.0,581.0
+2010.0,Paranormal Activity 2,117205902,Oct 22-24,Paramount Pictures,3000000.0,tt1536044,10/22/2010,Horror,91,USA,"English, Spanish",Tod Williams,5.6,97205,379.0,218.0
+2010.0,Megamind,138136720,Nov 5-7,Dreamworks,130000000.0,tt1001526,12/17/2010,"Animation, Action, Comedy",95,USA,English,Tom McGrath,7.2,222974,260.0,237.0
+2011.0,The Green Hornet,107824706,Jan 14-16,Sony Pictures,120000000.0,tt0990407,1/28/2011,"Action, Comedy, Crime",119,USA,"English, Mandarin",Michel Gondry,5.8,153763,480.0,453.0
+2011.0,Rango,114398546,Mar 4-6,Paramount Pictures,135000000.0,tt1192628,3/11/2011,"Animation, Adventure, Comedy",107,USA,English,Gore Verbinski,7.2,231174,404.0,378.0
+2011.0,Limitless,98816142,Mar 18-20,Relativity Media,27000000.0,tt1219289,4/15/2011,"Sci-Fi, Thriller",105,USA,"English, Russian, Italian, Mandarin, French",Neil Burger,7.4,519061,488.0,394.0
+2011.0,Hop,110113006,Apr 1-3,Universal Pictures,63000000.0,tt1411704,4/1/2011,"Animation, Adventure, Comedy",95,USA,"English, Chinese, Spanish, French, Ukrainian",Tim Hill,5.4,30778,103.0,148.0
+2011.0,Rio,110573140,Apr 15-17,20th Century Fox,90000000.0,tt1436562,4/15/2011,"Animation, Adventure, Comedy",96,"USA, Brazil","English, Portuguese",Carlos Saldanha,6.9,202456,215.0,242.0
+2011.0,Thor,152646352,May 6-8,Paramount Pictures,150000000.0,tt0800369,4/27/2011,"Action, Adventure, Fantasy",115,USA,English,Kenneth Branagh,7.0,731043,917.0,563.0
+2011.0,Super 8,131188107,Jun 10-12,Paramount Pictures,50000000.0,tt1650062,9/9/2011,"Action, Adventure, Sci-Fi",112,USA,English,J.J. Abrams,7.0,334427,931.0,562.0
+2011.0,Cars 2,164865297,Jun 24-26,Walt Disney,200000000.0,tt1216475,6/22/2011,"Animation, Adventure, Comedy",106,USA,"English, Japanese, Italian, French","John Lasseter, Bradford Lewis",6.1,155043,338.0,319.0
+2011.0,Cowboys & Aliens,167881029,Jul 29-31,Universal Pictures,163000000.0,tt0409847,10/14/2011,"Action, Sci-Fi, Thriller",119,"USA, India","English, Apache languages",Jon Favreau,6.0,204846,554.0,441.0
+2011.0,Contagion,60588164,Sep 9-11,Warner Bros.,60000000.0,tt1598778,9/9/2011,"Action, Drama, Thriller",106,"United Arab Emirates, USA","English, Mandarin, Cantonese",Steven Soderbergh,6.7,274278,763.0,271.0
+2011.0,Real Steel,80038160,Oct 7-9,Walt Disney,110000000.0,tt0433035,11/25/2011,"Action, Drama, Sci-Fi",127,"USA, India","English, Ukrainian",Shawn Levy,7.1,293214,477.0,337.0
+2011.0,Paranormal Activity 3,105208900,Oct 21-23,Paramount Pictures,5000000.0,tt1778304,10/21/2011,"Horror, Mystery, Thriller",83,USA,English,"Henry Joost, Ariel Schulman",5.8,88995,335.0,254.0
+2011.0,Immortals,124195132,Nov 11-13,Relativity Media,75000000.0,tt1253864,11/11/2011,"Action, Drama, Fantasy",110,"USA, Canada, UK","English, Greek",Tarsem Singh,6.0,158793,435.0,290.0
+2012.0,Contraband,105673270,Jan 13-15,Universal Pictures,25000000.0,tt1524137,7/25/2012,"Action, Crime, Drama",109,"USA, UK, France","English, Spanish",Baltasar Kormákur,6.5,115327,179.0,272.0
+2012.0,Chronicle,88088338,Feb 3-5,20th Century Fox,12000000.0,tt1706593,5/9/2012,"Drama, Sci-Fi, Thriller",89,USA,English,Josh Trank,7.0,237285,519.0,427.0
+2012.0,Act of Valor,107371847,Feb 24-26,Relativity Media,12000000.0,tt1591479,4/4/2012,"Action, Adventure, Thriller",110,USA,"English, Russian, Spanish","Mike McCoy, Scott Waugh",6.5,65794,380.0,218.0
+2012.0,21 Jump Street,93582069,Mar 16-18,Sony Pictures,42000000.0,tt1232829,6/15/2012,"Action, Comedy, Crime",109,USA,English,"Phil Lord, Christopher Miller",7.2,502220,401.0,389.0
+2012.0,Think Like a Man,118940992,Apr 20-22,Sony Pictures,12000000.0,tt1621045,4/20/2012,"Comedy, Romance",123,USA,English,Tim Story,6.6,43236,72.0,77.0
+2012.0,The Avengers,246662936,May 4-6,Walt Disney,220000000.0,tt0848228,4/25/2012,"Action, Adventure, Sci-Fi",143,USA,"English, Russian, Hindi",Joss Whedon,8.0,1241220,1934.0,755.0
+2012.0,Men in Black 3,144354167,May 25-27,Sony Pictures,225000000.0,tt1409024,5/23/2012,"Action, Adventure, Comedy",106,"USA, United Arab Emirates","English, Ukrainian",Barry Sonnenfeld,6.8,329608,394.0,460.0
+2012.0,Ted,189645968,Jun29-Jul1,Universal Pictures,50000000.0,tt1637725,10/4/2012,Comedy,106,USA,"English, Japanese",Seth MacFarlane,6.9,562136,662.0,468.0
+2012.0,The Amazing Spider-Man,178335880,Jul 6-8,Sony Pictures,230000000.0,tt0948470,7/4/2012,"Action, Adventure, Sci-Fi",136,USA,English,Marc Webb,6.9,550033,1339.0,626.0
+2012.0,The Bourne Legacy,129143882,Aug 10-12,Universal Pictures,125000000.0,tt1194173,9/7/2012,"Action, Adventure, Thriller",135,"USA, Japan","English, Russian, Filipino, Ukrainian",Tony Gilroy,6.7,280665,563.0,454.0
+2012.0,The Possession,78473593,Aug31-Sep2,Lionsgate,14000000.0,tt0431021,10/25/2012,"Horror, Mystery, Thriller",92,"USA, Canada",English,Ole Bornedal,5.9,56120,208.0,270.0
+2012.0,Resident Evil: Retribution,64824244,Sep 14-16,Screen Gems,65000000.0,tt1855325,9/28/2012,"Action, Horror, Sci-Fi",95,"Germany, Canada, USA, France, UK","English, American Sign Language",Paul W.S. Anderson,5.4,130855,448.0,258.0
+2012.0,Hotel Transylvania,102991094,Sep 28-30,Sony Pictures,85000000.0,tt0837562,11/8/2012,"Animation, Comedy, Family",91,USA,English,Genndy Tartakovsky,7.1,218566,226.0,275.0
+2012.0,Paranormal Activity 4,115619564,Oct 19-21,Paramount Pictures,5000000.0,tt2109184,11/22/2012,"Horror, Mystery, Thriller",88,USA,"English, Ukrainian","Henry Joost, Ariel Schulman",4.6,61190,272.0,258.0
+2012.0,Skyfall,159539986,Nov 9-11,Sony Pictures,200000000.0,tt1074638,10/31/2012,"Action, Adventure, Thriller",143,"UK, USA, Turkey","English, Turkish, Shanghainese, Portuguese, Japanese",Sam Mendes,7.7,620267,1588.0,740.0
+2013.0,Warm Bodies,64959191,Feb 1-3,Lionsgate,35000000.0,tt1588173,2/7/2013,"Comedy, Horror, Romance",98,"USA, Canada",English,Jonathan Levine,6.9,216534,384.0,467.0
+2013.0,Oblivion,96489683,Apr 19-21,Universal Pictures,120000000.0,tt1483013,4/11/2013,"Action, Adventure, Sci-Fi",124,USA,English,Joseph Kosinski,7.0,476845,1015.0,566.0
+2013.0,Iron Man 3,208434380,May 3-5,Walt Disney,200000000.0,tt1300854,4/24/2013,"Action, Adventure, Sci-Fi",130,USA,English,Shane Black,7.2,739816,1322.0,643.0
+2013.0,Fast & Furious 6,248032672,May 24-26,Universal Pictures,160000000.0,tt1905041,5/21/2013,"Action, Adventure, Thriller",130,"USA, Japan, Spain, UK","English, Spanish, Russian, Japanese, Cantonese, Dutch",Justin Lin,7.1,363237,494.0,432.0
+2013.0,Monsters University,228593120,Jun 21-23,Walt Disney,200000000.0,tt1453405,8/21/2013,"Animation, Adventure, Comedy",104,USA,English,Dan Scanlon,7.3,313986,336.0,395.0
+2013.0,Elysium,137650749,Aug 9-11,Sony Pictures,115000000.0,tt1535108,8/29/2013,"Action, Drama, Sci-Fi",109,"USA, Mexico, Canada","English, Spanish, French, Afrikaans, Ukrainian",Neill Blomkamp,6.6,413841,920.0,503.0
+2013.0,Riddick,61672745,Sep 6-8,Universal Pictures,38000000.0,tt1411250,9/5/2013,"Action, Adventure, Sci-Fi",119,"Canada, USA",English,David Twohy,6.4,151989,365.0,311.0
+2013.0,Prisoners,69831206,Sep 20-22,Warner Bros.,46000000.0,tt1392214,11/7/2013,"Crime, Drama, Mystery",153,USA,English,Denis Villeneuve,8.1,581167,914.0,494.0
+2013.0,Gravity,111457653,Oct 4-6,Warner Bros.,100000000.0,tt1454468,10/3/2013,"Drama, Sci-Fi, Thriller",91,"UK, USA, Mexico","English, Greenlandic",Alfonso Cuarón,7.7,755710,2103.0,782.0
+2013.0,Ender's Game,115987099,Nov 1-3,Lionsgate,110000000.0,tt1731141,10/30/2013,"Action, Adventure, Fantasy",114,USA,English,Gavin Hood,6.6,220351,632.0,341.0
+2013.0,Thor: The Dark World,157930421,Nov 8-10,Walt Disney,170000000.0,tt1981115,11/20/2013,"Action, Adventure, Fantasy",112,USA,English,Alan Taylor,6.9,582153,703.0,525.0
+2013.0,The Hobbit: The Desolation of Smaug,138369003,Dec 13-15,Warner Bros.,225000000.0,tt1170358,12/12/2013,"Adventure, Fantasy",161,"New Zealand, USA",English,Peter Jackson,7.8,590831,989.0,536.0
+2014.0,The Lego Movie,132710403,Feb 7-9,Warner Bros.,60000000.0,tt1490017,2/20/2014,"Animation, Action, Adventure",100,"USA, Denmark, Australia","English, Turkish","Christopher Miller, Phil Lord",7.7,319327,552.0,463.0
+2014.0,Non-Stop,104089480,Feb28-Mar2,Universal Pictures,50000000.0,tt2024469,5/8/2014,"Action, Mystery, Thriller",106,"UK, France, USA, Canada","English, German",Jaume Collet-Serra,6.9,246465,450.0,379.0
+2014.0,Divergent,129583231,Mar 21-23,Lionsgate,85000000.0,tt1840309,4/3/2014,"Action, Adventure, Mystery",139,USA,"English, Spanish",Neil Burger,6.7,418338,799.0,473.0
+2014.0,Noah,124746109,Mar 28-30,Paramount Pictures,125000000.0,tt1959490,4/10/2014,"Action, Adventure, Drama",138,USA,English,Darren Aronofsky,5.7,240005,1401.0,447.0
+2014.0,Captain America: The Winter Soldier,155800774,Apr 4-6,Walt Disney,170000000.0,tt1843866,3/26/2014,"Action, Adventure, Sci-Fi",136,USA,"English, French","Anthony Russo, Joe Russo",7.7,719085,944.0,614.0
+2014.0,Maleficent,157680341,May30-Jun1,Walt Disney,180000000.0,tt1587310,5/28/2014,"Action, Adventure, Family",97,USA,English,Robert Stromberg,7.0,336610,774.0,428.0
+2014.0,22 Jump Street,177277722,Jun 13-15,Sony Pictures,50000000.0,tt2294449,7/23/2014,"Action, Comedy, Crime",112,USA,English,"Phil Lord, Christopher Miller",7.0,339248,354.0,349.0
+2014.0,Lucy,132017659,Jul 25-27,Universal Pictures,40000000.0,tt2872732,9/25/2014,"Action, Sci-Fi, Thriller",89,"France, Germany, Taiwan, Canada, USA, UK","English, Mandarin, French, Italian, German, Spanish, Korean",Luc Besson,6.4,433936,1159.0,439.0
+2014.0,Fury,115233422,Oct 17-19,Sony Pictures,68000000.0,tt2713180,6/2/2015,"Action, Drama, War",134,"USA, China, UK","English, German",David Ayer,7.6,415279,945.0,435.0
+2014.0,Ouija,97071579,Oct 24-26,Universal Pictures,5000000.0,tt1204977,1/8/2015,"Horror, Mystery, Thriller",89,USA,English,Stiles White,4.5,46883,201.0,205.0
+2014.0,Big Hero 6,142643895,Nov 7-9,Walt Disney,165000000.0,tt2245084,12/18/2014,"Animation, Action, Adventure",102,USA,English,"Don Hall, Chris Williams",7.8,400882,564.0,413.0
+2015.0,The Divergent Series: Insurgent,117323618,Mar 20-22,Lionsgate,110000000.0,tt2908446,3/19/2015,"Action, Adventure, Sci-Fi",119,"USA, Canada",English,Robert Schwentke,6.2,212844,315.0,287.0
+2015.0,Avengers: Age of Ultron,223967813,May 1-3,Walt Disney,250000000.0,tt2395427,4/22/2015,"Action, Adventure, Sci-Fi",141,USA,"English, Korean",Joss Whedon,7.3,722685,1306.0,693.0
+2015.0,Pitch Perfect 2,175540242,May 15-17,Universal Pictures,29000000.0,tt2848292,5/28/2015,"Comedy, Music",115,USA,"English, German",Elizabeth Banks,6.4,139566,226.0,242.0
+2015.0,San Andreas,131136807,May 29-31,Warner Bros.,110000000.0,tt2126355,5/28/2015,"Action, Adventure, Drama",114,USA,English,Brad Peyton,6.1,207545,624.0,400.0
+2015.0,Spy,122790825,Jun 5-7,20th Century Fox,65000000.0,tt3079380,7/15/2015,"Action, Comedy, Crime",120,"USA, UK, France, Hungary, Germany","English, French, Italian, German, Hungarian",Paul Feig,7.0,225974,498.0,384.0
+2015.0,Jurassic World,266035144,Jun 12-14,Universal Pictures,150000000.0,tt0369610,6/11/2015,"Action, Adventure, Sci-Fi",124,USA,English,Colin Trevorrow,7.0,569512,1537.0,698.0
+2015.0,Minions,202943834,Jul 10-12,Universal Pictures,74000000.0,tt2293640,8/27/2015,"Animation, Adventure, Comedy",91,USA,"English, Spanish","Kyle Balda, Pierre Coffin",6.4,207787,356.0,340.0
+2015.0,Ant-Man,178494977,Jul 17-19,Walt Disney,130000000.0,tt0478970,8/12/2015,"Action, Adventure, Comedy",117,USA,English,Peyton Reed,7.3,553758,726.0,585.0
+2015.0,Mission: Impossible - Rogue Nation,136167805,Jul31-Aug2,Paramount Pictures,150000000.0,tt2381249,8/19/2015,"Action, Adventure, Thriller",131,"USA, China, Hong Kong, Austria, UK, Morocco","English, Swedish, German, Russian",Christopher McQuarrie,7.4,334530,539.0,513.0
+2015.0,Straight Outta Compton,129704209,Aug 14-16,Universal Pictures,28000000.0,tt1398426,10/1/2015,"Biography, Drama, History",147,USA,English,F. Gary Gray,7.8,176177,389.0,384.0
+2015.0,The Perfect Guy,81621359,Sep 11-13,Screen Gems,12000000.0,tt3862750,9/11/2015,"Crime, Drama, Horror",100,USA,English,David M. Rosenthal,5.6,9645,48.0,49.0
+2015.0,Hotel Transylvania 2,125667878,Sep 25-27,Sony Pictures,80000000.0,tt2510894,10/8/2015,"Animation, Comedy, Family",89,USA,English,Genndy Tartakovsky,6.7,103704,159.0,184.0
+2015.0,Spectre,148792362,Nov 6-8,Sony Pictures,245000000.0,tt2379713,11/5/2015,"Action, Adventure, Thriller",148,"UK, USA, Austria, Mexico, Italy, Morocco","English, Spanish, Italian, German, French",Sam Mendes,6.8,376138,1161.0,643.0
+2016.0,Kung Fu Panda 3,118353833,Jan 29-31,20th Century Fox,145000000.0,tt2267968,3/17/2016,"Animation, Action, Adventure",95,"China, USA",English,"Alessandro Carloni, Jennifer Yuh Nelson",7.1,129771,201.0,242.0
+2016.0,Deadpool,215810637,Feb 12-14,20th Century Fox,58000000.0,tt1431045,2/18/2016,"Action, Adventure, Comedy",108,USA,English,Tim Miller,8.0,882037,1449.0,662.0
+2016.0,Batman v Superman: Dawn of Justice,243491430,Mar 25-27,Warner Bros.,250000000.0,tt2975590,3/23/2016,"Action, Adventure, Sci-Fi",152,USA,English,Zack Snyder,6.4,612550,3766.0,813.0
+2016.0,The Boss,91145188,Apr 8-10,Universal Pictures,29000000.0,tt2702724,6/16/2016,Comedy,99,USA,English,Ben Falcone,5.4,42072,157.0,179.0
+2016.0,Captain America: Civil War,232395976,May 6-8,Walt Disney,250000000.0,tt3498820,5/4/2016,"Action, Adventure, Sci-Fi",147,USA,"English, German, Xhosa, Russian, Romanian, Hindi","Anthony Russo, Joe Russo",7.8,644241,1422.0,670.0
+2016.0,Jason Bourne,174855310,Jul 29-31,Universal Pictures,120000000.0,tt4196776,9/1/2016,"Action, Thriller",123,"USA, China","English, Greek, German, Japanese",Paul Greengrass,6.6,203948,697.0,344.0
+2016.0,Suicide Squad,217747182,Aug 5-7,Warner Bros.,175000000.0,tt1386697,8/13/2016,"Action, Adventure, Fantasy",123,USA,"English, Japanese, Spanish",David Ayer,6.0,586474,2268.0,703.0
+2016.0,Sully,80346710,Sep 9-11,Warner Bros.,60000000.0,tt3263904,12/1/2016,"Biography, Drama",96,USA,English,Clint Eastwood,7.4,229971,480.0,414.0
+2016.0,The Accountant,84988876,Oct 14-16,Warner Bros.,44000000.0,tt2140479,10/27/2016,"Action, Crime, Drama",128,USA,"English, Indonesian, French",Gavin O'Connor,7.3,253669,517.0,338.0
+2016.0,Doctor Strange,180664140,Nov 4-6,Walt Disney,165000000.0,tt1211837,10/26/2016,"Action, Adventure, Fantasy",115,USA,English,Scott Derrickson,7.5,578675,961.0,584.0
+2016.0,Rogue One: A Star Wars Story,203485726,Dec 16-18,Walt Disney,200000000.0,tt3748528,12/15/2016,"Action, Adventure, Sci-Fi",133,USA,English,Gareth Edwards,7.8,538641,1781.0,715.0
+2017.0,Kong: Skull Island,149362845,Mar 10-12,Warner Bros.,185000000.0,tt3731562,3/9/2017,"Action, Adventure, Fantasy",118,"USA, China","English, Vietnamese",Jordan Vogt-Roberts,6.6,262000,951.0,589.0
+2017.0,Alien: Covenant,115331687,May 19-21,20th Century Fox,97000000.0,tt2316204,5/11/2017,"Horror, Sci-Fi, Thriller",122,"USA, UK",English,Ridley Scott,6.4,248096,2069.0,586.0
+2017.0,Wonder Woman,179022383,Jun 2-4,Warner Bros.,149000000.0,tt0451279,6/1/2017,"Action, Adventure, Fantasy",141,"USA, China, Hong Kong","English, German, Dutch, French, Spanish, Chinese, Greek, Ancient (to 1453), North American Indian",Patty Jenkins,7.4,535903,2200.0,713.0
+2017.0,Cars 3,178932468,Jun 16-18,Walt Disney,175000000.0,tt3606752,9/14/2017,"Animation, Adventure, Comedy",102,USA,English,Brian Fee,6.7,71587,341.0,276.0
+2017.0,Spider-Man: Homecoming,198323345,Jul 7-9,Sony Pictures,175000000.0,tt2250912,7/6/2017,"Action, Adventure, Sci-Fi",133,USA,"English, Spanish",Jon Watts,7.4,494060,1370.0,572.0
+2017.0,Dunkirk,172931486,Jul 21-23,Warner Bros.,100000000.0,tt5013056,8/31/2017,"Action, Drama, History",106,"UK, Netherlands, France, USA","English, French, German",Christopher Nolan,7.9,531422,2399.0,624.0
+2017.0,It,153028668,Sep 8-10,Warner Bros.,35000000.0,tt1396484,10/19/2017,Horror,135,"Canada, USA","English, Hebrew",Andy Muschietti,7.3,442715,1933.0,629.0
+2017.0,Blade Runner 2049,97001069,Oct 6-8,Warner Bros.,150000000.0,tt1856101,10/5/2017,"Action, Drama, Mystery",164,"USA, UK, Hungary, Canada, Spain","English, Finnish, Japanese, Hungarian, Russian, Somali, Spanish",Denis Villeneuve,8.0,440890,2381.0,642.0
+2017.0,Thor: Ragnarok,164643982,Nov 3-5,Walt Disney,180000000.0,tt3501632,10/25/2017,"Action, Adventure, Comedy",130,USA,English,Taika Waititi,7.9,564511,1600.0,520.0
+2017.0,Justice League,192816366,Nov 17-19,Warner Bros.,300000000.0,tt0974015,11/16/2017,"Action, Adventure, Fantasy",120,"USA, Canada, UK","English, Irish, Russian, Icelandic",Zack Snyder,6.3,371025,2013.0,463.0
+2017.0,Coco,178495539,Nov 24-26,Walt Disney,175000000.0,tt2380307,12/28/2017,"Animation, Adventure, Family",105,USA,"English, Spanish","Lee Unkrich, Adrian Molina",8.4,352455,1101.0,408.0
+2018.0,Black Panther,267360455,Feb 16-18,Walt Disney,200000000.0,tt1825683,2/14/2018,"Action, Adventure, Sci-Fi",134,USA,"English, Swahili, Nama, Xhosa, Korean",Ryan Coogler,7.3,597058,3243.0,685.0
+2018.0,Ready Player One,115250516,Mar30-Apr1,Warner Bros.,175000000.0,tt1677720,3/28/2018,"Action, Adventure, Sci-Fi",140,"USA, India",English,Steven Spielberg,7.5,353913,2009.0,582.0
+2018.0,Avengers: Infinity War,303012371,Apr 27-29,Walt Disney,321000000.0,tt4154756,4/25/2018,"Action, Adventure, Sci-Fi",149,USA,English,"Anthony Russo, Joe Russo",8.4,796486,4273.0,611.0
+2018.0,Deadpool 2,200438167,May 18-20,20th Century Fox,110000000.0,tt5463162,5/15/2018,"Action, Adventure, Comedy",119,USA,"English, Cantonese, Spanish, Russian",David Leitch,7.7,460610,1309.0,522.0
+2018.0,Solo: A Star Wars Story,175038242,May 25-27,Walt Disney,275000000.0,tt3778644,5/23/2018,"Action, Adventure, Sci-Fi",135,USA,English,Ron Howard,6.9,278319,2486.0,546.0
+2018.0,Ant-Man and the Wasp,176800250,Jul 6-8,Walt Disney,162000000.0,tt5095030,8/14/2018,"Action, Adventure, Comedy",118,USA,"English, Spanish",Peyton Reed,7.1,295480,944.0,436.0
+2018.0,Hotel Transylvania 3: Summer Vacation,154037869,Jul 13-15,Sony Pictures,80000000.0,tt5220122,8/22/2018,"Animation, Adventure, Comedy",97,"USA, South Korea","English, Spanish, German, Russian",Genndy Tartakovsky,6.3,54196,264.0,125.0
+2018.0,Mission: Impossible - Fallout,143331278,Jul 27-29,Paramount Pictures,178000000.0,tt4912910,8/29/2018,"Action, Adventure, Thriller",147,"USA, China, France, Norway, UK","English, French",Christopher McQuarrie,7.7,280981,1644.0,459.0
+2018.0,The Predator,94001600,Sep 14-16,20th Century Fox,88000000.0,tt3829266,10/11/2018,"Action, Adventure, Sci-Fi",107,"USA, Canada","English, Spanish",Shane Black,5.3,113053,2582.0,410.0
+2018.0,Venom,168979851,Oct 5-7,Sony Pictures,100000000.0,tt1270797,10/4/2018,"Action, Adventure, Sci-Fi",112,"China, USA","English, Mandarin, Malay",Ruben Fleischer,6.7,343608,3632.0,411.0
+2018.0,Bohemian Rhapsody,129384786,Nov 2-4,20th Century Fox,52000000.0,tt1727824,11/29/2018,"Biography, Drama, Music",134,"UK, USA","English, British Sign Language",Bryan Singer,8.0,433549,3367.0,461.0
+2018.0,Aquaman,163297800,Dec 21-23,Warner Bros.,160000000.0,tt1477834,1/1/2019,"Action, Adventure, Fantasy",143,"USA, Australia","English, Russian, Maori, Italian",James Wan,6.9,348878,3883.0,446.0
+2019.0,Glass,109523159,Jan 18-20,Universal Pictures,20000000.0,tt6823368,1/17/2019,"Drama, Sci-Fi, Thriller",129,"USA, China","English, Spanish",M. Night Shyamalan,6.7,197883,1959.0,411.0
+2019.0,Captain Marvel,198063125,Mar 8-10,Walt Disney,160000000.0,tt4154664,3/6/2019,"Action, Adventure, Sci-Fi",123,"USA, Australia",English,"Anna Boden, Ryan Fleck",6.9,422676,7207.0,513.0
+2019.0,Dumbo,129484146,Mar 29-31,Walt Disney,170000000.0,tt3861390,3/28/2019,"Adventure, Family, Fantasy",112,"USA, UK, Australia, Canada","English, French",Tim Burton,6.3,62609,743.0,323.0
+2019.0,Shazam!,137908217,Apr 5-7,Warner Bros.,100000000.0,tt0448115,4/3/2019,"Action, Adventure, Comedy",132,"USA, Canada","English, Spanish",David F. Sandberg,7.1,240858,2009.0,379.0
+2019.0,Avengers: Endgame,396469872,Apr 26-28,Walt Disney,356000000.0,tt4154796,4/24/2019,"Action, Adventure, Drama",181,USA,"English, Japanese, Xhosa, German","Anthony Russo, Joe Russo",8.4,754786,8869.0,557.0
+2019.0,Aladdin,173109025,May 24-26,Walt Disney,183000000.0,tt6139732,5/22/2019,"Adventure, Family, Fantasy",128,"UK, USA, Australia","English, Arabic",Guy Ritchie,7.0,215140,2299.0,349.0
+2019.0,Men in Black: International,123601448,Jun 14-16,Sony Pictures,110000000.0,tt2283336,7/25/2019,"Action, Adventure, Comedy",114,"China, USA","English, French, Chinese",F. Gary Gray,5.6,103315,1068.0,265.0
+2019.0,Toy Story 4,189899923,Jul 21-23,Walt Disney,200000000.0,tt1979376,6/26/2019,"Animation, Adventure, Comedy",100,USA,English,Josh Cooley,7.8,189129,1287.0,382.0
+2019.0,Spider-Man: Far from Home,174209668,Jul 5-7,Sony Pictures,160000000.0,tt6320628,7/10/2019,"Action, Adventure, Sci-Fi",129,USA,"English, Italian, Czech",Jon Watts,7.5,304708,2041.0,415.0
+2019.0,Downton Abbey,113373910,Sep 20-22,Focus Features,13000000.0,tt6398184,10/24/2019,"Drama, Romance",122,"UK, USA",English,Michael Engler,7.4,35846,441.0,174.0
+2019.0,Joker,142713298,Oct 4-6,Warner Bros.,55000000.0,tt7286456,10/3/2019,"Crime, Drama, Thriller",122,"USA, Canada",English,Todd Phillips,8.5,855097,10472.0,698.0
+2019.0,Midway,100490654,Nov 8-10,Lionsgate,100000000.0,tt6924650,11/27/2019,"Action, Adventure, Drama",138,"China, Hong Kong, Canada, USA","English, Japanese, Mandarin",Roland Emmerich,6.7,57789,946.0,174.0
+2020.0,Bad Boys for Life,148594253,Jan 17-19,Sony Pictures,90000000.0,tt1502397,2/20/2020,"Action, Comedy, Crime",124,"USA, Mexico","English, Spanish","Adil El Arbi, Bilall Fallah",6.6,111557,1072.0,238.0
