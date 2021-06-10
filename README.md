@@ -7,9 +7,9 @@ the budget and earnings of movies. This file is to explain the files you see in 
 
 Come see my spin-off project using Machine Learning to predict IMDb userbase approval and engagement!
 
-Repository link: https://github.com/gspahlin/Movie_score_predictor
+Repository link: https://github.com/gspahlin/Movie_metric_predictor
 
-Website link: https://gspahlin.github.io/Movie_score_predictor/
+Website link: https://gspahlin.github.io/Movie_metric_predictor/
 
 **Files**
 
